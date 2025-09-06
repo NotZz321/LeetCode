@@ -1,0 +1,19 @@
+# SQL root files (ignore duplicates)
+*.sql
+
+# JavaScript / Node.js
+node_modules/
+dist/
+*.log
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# Java
+*.class
+
+# C++
+*.exe
+*.o
